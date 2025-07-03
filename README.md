@@ -1,4 +1,4 @@
-# DataAnalytics-Assessment
+# Fintech: Customer's Overview with SQL
 
 
 # Account Inactivity Alert – SQL Query Documentation
